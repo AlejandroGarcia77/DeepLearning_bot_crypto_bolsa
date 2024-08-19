@@ -1,0 +1,39 @@
+2019-AAPL:
+Mayor beneficio: 32.34%
+Mínimo beneficio: -4.71%
+Media de beneficio: 12.34%
+Valor de hold:25.05%
+
+2016-BTC-USD:
+Mayor beneficio: 217.08%
+Mínimo beneficio: 7.35%
+Media de beneficio: 116.82%
+Valor de hold:158.80%
+
+
+
+2019-AAPL:
+Mayor beneficio: 30.64%
+Mínimo beneficio: -1.40%
+Media de beneficio: 14.94%
+Valor de hold:25.05%
+2019-AAPL:
+Mayor beneficio: 7.21%
+Mínimo beneficio: -11.21%
+Media de beneficio: -1.49%
+Valor de hold:25.05%
+2016-BTC-USD:
+Mayor beneficio: 132.28%
+Mínimo beneficio: 14.45%
+Media de beneficio: 52.09%
+Valor de hold:158.80%
+2016-BTC-USD:
+Mayor beneficio: 110.37%
+Mínimo beneficio: 11.40%
+Media de beneficio: 52.39%
+Valor de hold:158.80%
+2016-BTC-USD:
+Mayor beneficio: 71.64%
+Mínimo beneficio: -20.32%
+Media de beneficio: 26.85%
+Valor de hold:158.80%
